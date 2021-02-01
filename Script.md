@@ -8,7 +8,7 @@ Behind it, he finds a magical world of unicorns living in perfect piece and harm
 ## Plot
 
 George woke to the sound of traffic, the sky was gray.
-After his typical breakfast of toast and an egge he left for school.
+After his typical breakfast of toast and an eggs he left for school.
 Normally George would have walked down Bleaker streat, but today there was construction and he decided to take Flanders behind the zoo.
 
 Being on time was not one of George’s specialities today would prove to be no different.
