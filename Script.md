@@ -8,7 +8,7 @@ Behind it, he finds a magical world of unicorns living in perfect piece and harm
 ## Plot
 
 Yin woke to the sound of traffic, the sky was gray.
-After his typical breakfast of toast and an eggs he left for school.
+After his typical breakfast of toast and an egge he left for school.
 Normally Yin would have walked down Bleaker streat, but today there was construction and he decided to take Flanders behind the zoo.
 
 Being on time was not one of Yin’s specialities today would prove to be no different.
@@ -22,7 +22,8 @@ He stuck his head in the door, the color of the foliage was intense greens, brow
 The smell of the of the zoo was intense and alive.
 He took a tentative step through the door and followed the stone path overgrown with giant ferns.
 
-Yin met the Unicorn King who granted him magic powers. Then Yin became the new Unicorn King!
+Yin met the Unicorn King who granted him magic powers.
+Then Yin became the new Unicorn King!
 The end.
 
 ## Cast
@@ -31,3 +32,4 @@ The end.
 * Unicorn King: Alan
 * Friendly Koala: Adriana
 * Janitor: Mitchell
+* Zookeeper: Mango
